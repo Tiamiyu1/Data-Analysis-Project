@@ -52,17 +52,23 @@ Countplot shows distribution of a categorical variable
 
 - Minimun and maximum rating is 4 and 10 respectively
 - Tax and gross income look statistically alike
-- Port Harcourt has the highest total gross income
+- Port Harcourt has the highest total gross income, reason for its highest tax
 - Lagos has the highest total unit price, quantity and rating
+- Port Harcourt paid the highest tax while Lagos paid the least
 - Branch A (Lagos) has the highes sales record
 - Epay is the payment mostly used across the 3 locations
 - Fashion accessories is the most purchased product across the 3 locations,  Health and beauty is the least
 - People that purchase Electronic accessories pay mostly in cash
 - Epay is mostly used in Lagos, card in Abuja and cash in Port Harcourt
-- Abuja has the lowest total rating
-- Females spend more on Food and beverages , Fashion accessories than males
-- Males spend more on Health and beauty, Electronic accessories than females
-- Seems both gender spend equally on sports and travel, Home and lifestyle
+- Branch B (Abuja) has the lowest total rating
+- On average, Females buy more of Fashion accessories & Home and lifestyle than males
+- Also, males buy more of Health and beauty
+- The other three product lines (ood and beverages, sports and travel & Electronic accessories) appear equally distributed among the two genders
+
+
+- Females spend more on Food and beverages , Fashion accessories & Home and lifestyle than males
+- Males spend more on Health and beauty  & sports and travel than females
+- Seems both gender spend equally on Electronic accessories  
 - Electronics has the lowest unit price while fashion accessories has the highest unit price
 - Electronics has the highest quantity purchased (probably due to its lowest unit price) while fashion accessories has the lowest quantity purchased (opposite reason)
 
