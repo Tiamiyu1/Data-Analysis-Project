@@ -3,7 +3,7 @@ Company XYZ owns a supermarket chain across the country. Each major branch locat
 
 You will apply learnings to analyse the dataset in the data folder, and the description of each feature can be found in this link
 To-Do - Write a short project description here.
-
+[Here is the complete analysis](https://github.com/Tiamiyu1/Data-Analysis-Project/blob/main/Super%20Market%20%20Data%20Analysis_Updated.ipynb)
 # Project Steps
 ## Step 1 - Loading the Dataset
 The dataset consists of 3 separate csv files of each branch, the 3 files were put into a list(having same .csv extension) using os module and glob modules.
